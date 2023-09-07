@@ -7,8 +7,8 @@ Automatically synced and updated playlists will reduce the overhead of making mi
 ## Given
 I currently have Spotify Premium and SoundCloud Go. 
 
-## Documentation
-I am very big on documentation. I will document my ideas, trials, errors, and failures in the *Logbook* folder in this repo to track my progress.  
-
+## To Run this Program
+I hid my Client ID and Client Secret but those can be gotten from developer.spotify.com\
+Save this information in a .env file to use this script. 
 ___
 I hope this project inspires you to use your skills to solve a problem for yourself.
