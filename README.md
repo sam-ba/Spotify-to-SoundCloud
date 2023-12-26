@@ -9,6 +9,6 @@ I currently have Spotify Premium and SoundCloud Go.
 
 ## To Run this Program
 I hid my Client ID and Client Secret but those can be gotten from developer.spotify.com\
-Save this information in a .env file to use this script. 
+***To be updated at completion***
 ___
 I hope this project inspires you to use your skills to solve a problem for yourself.
